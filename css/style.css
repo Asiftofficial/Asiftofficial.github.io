@@ -1,0 +1,36 @@
+body{
+    background-color: #0e4a5d;
+}
+
+@font-face {
+    font-family: baloo;
+    src: url(https://astech37.github.io/baloo.ttf);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body p{
+    font-size: 50px;
+    text-align: center;
+    font-family: baloo;
+}
+
+.text-logo{
+    font-size: 250px;
+    text-align: center;
+    font-family: baloo;
+}
+
+.title-page{
+    text-align: center;
+    font-size: 80px;
+    font-family: baloo;
+}
+
+.contact-text{
+    font-size: 20px;
+}
